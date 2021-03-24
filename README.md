@@ -1,2 +1,3 @@
 # bangkit
 There is a will, there is a way
+I am editing the README file. Adding some more details about the project description.
